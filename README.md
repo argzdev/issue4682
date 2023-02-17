@@ -3,7 +3,7 @@
 - https://github.com/firebase/firebase-android-sdk/issues/4682
 
 ### Summary:
-- Versions `2.9.3` and `2.9.4` on 'com.google.firebase:firebase-crashlytics-gradle` exhibits the following error.
+- Versions `2.9.3` and `2.9.4` on `com.google.firebase:firebase-crashlytics-gradle` exhibits the following error.
 - This issue is not present on versions `2.9.2` and below.
 
 ### Error:
